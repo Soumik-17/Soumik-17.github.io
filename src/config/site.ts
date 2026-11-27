@@ -21,18 +21,18 @@ export const links = {
   github: "https://github.com/Soumik-17",
   linkedin: "https://www.linkedin.com/in/soumik-bhul/",
   email: "soumik.bhul.17@gmail.com",
-  resume: "YOUR_RESUME_PDF", // e.g. "/resume.pdf" (place the file in /public)
-  phone: "+919735277061", // e.g. "+919876543210"
-  whatsapp: "919735277061", // digits only incl. country code, e.g. "919876543210"
+  resume: "/resume.pdf", 
+  phone: "+919735277061", 
+  whatsapp: "919735277061", 
 };
 
 /** Skills section — edit groups and items freely. */
 export const skillGroups = [
   { title: "Languages & Databases", items: ["Python", "SQL", "PostgreSQL"] },
-  { title: "Data Analysis", items: ["Pandas", "NumPy", "Excel", "Data Cleaning"] },
-  { title: "Machine Learning", items: ["Scikit-learn", "LightGBM", "SHAP"] },
-  { title: "Visualization & Apps", items: ["Power BI", "Streamlit", "Data Visualization"] },
-  { title: "Data Engineering & Tools", items: ["ETL", "Data Pipelines", "Git"] },
+  { title: "Data Analysis", items: ["Pandas", "Excel", "Jupyter Notebooks"] },
+  { title: "Machine Learning", items: ["Scikit-learn", "Tensorflow"] },
+  { title: "Visualization & Apps", items: ["Power BI", "Matplotlib", "Seaborn", "Streamlit"] },
+  { title: "Data Engineering & Tools", items: ["Git", "Github", "ETL"] },
 ];
 
 export const floatingSkills = [
