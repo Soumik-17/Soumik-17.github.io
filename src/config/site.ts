@@ -88,6 +88,15 @@ export const projects: Project[] = [
     liveUrl: "",
     githubUrl: "https://github.com/Soumik-17/amazon-sales-analysis",
   },
+  {
+    title: "Terrain Recognition - SIH",
+    category: "Deep Learning / Data Visualization",
+    description: "Built an U-Net Model to identify variety of trends for SIH Internal Hackathon",
+    image: "projects/terrain-recognition.png",
+    tech: ["Python", "Tensorflow", "Keras", "Matplotlib"],
+    liveUrl: "",
+    githubUrl: "https://github.com/Soumik-17/Terrain_Recog",
+  },
 ];
 
 /** True when a value hasn't been filled in yet. */
