@@ -30,9 +30,9 @@ export const links = {
 export const skillGroups = [
   { title: "Languages & Databases", items: ["Python", "SQL", "PostgreSQL"] },
   { title: "Data Analysis", items: ["Pandas", "Excel", "Jupyter Notebooks"] },
+  { title: "Data Engineering & Tools", items: ["Git", "Github", "ETL"] },
   { title: "Machine Learning", items: ["Scikit-learn", "Tensorflow"] },
   { title: "Visualization & Apps", items: ["Power BI", "Matplotlib", "Seaborn", "Streamlit"] },
-  { title: "Data Engineering & Tools", items: ["Git", "Github", "ETL"] },
 ];
 
 export const floatingSkills = [
